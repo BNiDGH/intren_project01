@@ -1,0 +1,274 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\BNiD\\Documents\\CEDT26intren\\project01\\project01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8FE1AAE4-699D-EFA0-4A80-BA5ED71FBFAB}|project01.Server\\project01.Server.csproj|c:\\users\\bnid\\documents\\cedt26intren\\project01\\project01\\project01.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FE1AAE4-699D-EFA0-4A80-BA5ED71FBFAB}|project01.Server\\project01.Server.csproj|solutionrelative:project01.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{415559E4-E05C-4B59-A246-047DE7219DAA}|project01.AppHost\\project01.AppHost.csproj|c:\\users\\bnid\\documents\\cedt26intren\\project01\\project01\\project01.apphost\\apphost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{415559E4-E05C-4B59-A246-047DE7219DAA}|project01.AppHost\\project01.AppHost.csproj|solutionrelative:project01.apphost\\apphost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{415559E4-E05C-4B59-A246-047DE7219DAA}|project01.AppHost\\project01.AppHost.csproj|c:\\users\\bnid\\documents\\cedt26intren\\project01\\project01\\project01.apphost\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{415559E4-E05C-4B59-A246-047DE7219DAA}|project01.AppHost\\project01.AppHost.csproj|solutionrelative:project01.apphost\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{415559E4-E05C-4B59-A246-047DE7219DAA}|project01.AppHost\\project01.AppHost.csproj|c:\\users\\bnid\\documents\\cedt26intren\\project01\\project01\\project01.apphost\\project01.apphost.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{415559E4-E05C-4B59-A246-047DE7219DAA}|project01.AppHost\\project01.AppHost.csproj|solutionrelative:project01.apphost\\project01.apphost.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FE1AAE4-699D-EFA0-4A80-BA5ED71FBFAB}|project01.Server\\project01.Server.csproj|c:\\users\\bnid\\documents\\cedt26intren\\project01\\project01\\project01.server\\project01.server.http||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8FE1AAE4-699D-EFA0-4A80-BA5ED71FBFAB}|project01.Server\\project01.Server.csproj|solutionrelative:project01.server\\project01.server.http||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FE1AAE4-699D-EFA0-4A80-BA5ED71FBFAB}|project01.Server\\project01.Server.csproj|c:\\users\\bnid\\documents\\cedt26intren\\project01\\project01\\project01.server\\project01.server.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{8FE1AAE4-699D-EFA0-4A80-BA5ED71FBFAB}|project01.Server\\project01.Server.csproj|solutionrelative:project01.server\\project01.server.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FE1AAE4-699D-EFA0-4A80-BA5ED71FBFAB}|project01.Server\\project01.Server.csproj|c:\\users\\bnid\\documents\\cedt26intren\\project01\\project01\\project01.server\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8FE1AAE4-699D-EFA0-4A80-BA5ED71FBFAB}|project01.Server\\project01.Server.csproj|solutionrelative:project01.server\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FE1AAE4-699D-EFA0-4A80-BA5ED71FBFAB}|project01.Server\\project01.Server.csproj|c:\\users\\bnid\\documents\\cedt26intren\\project01\\project01\\project01.server\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FE1AAE4-699D-EFA0-4A80-BA5ED71FBFAB}|project01.Server\\project01.Server.csproj|solutionrelative:project01.server\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FE1AAE4-699D-EFA0-4A80-BA5ED71FBFAB}|project01.Server\\project01.Server.csproj|c:\\users\\bnid\\documents\\cedt26intren\\project01\\project01\\project01.server\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8FE1AAE4-699D-EFA0-4A80-BA5ED71FBFAB}|project01.Server\\project01.Server.csproj|solutionrelative:project01.server\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FE1AAE4-699D-EFA0-4A80-BA5ED71FBFAB}|project01.Server\\project01.Server.csproj|c:\\users\\bnid\\documents\\cedt26intren\\project01\\project01\\project01.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8FE1AAE4-699D-EFA0-4A80-BA5ED71FBFAB}|project01.Server\\project01.Server.csproj|solutionrelative:project01.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FE1AAE4-699D-EFA0-4A80-BA5ED71FBFAB}|project01.Server\\project01.Server.csproj|c:\\users\\bnid\\documents\\cedt26intren\\project01\\project01\\project01.server\\services\\services.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FE1AAE4-699D-EFA0-4A80-BA5ED71FBFAB}|project01.Server\\project01.Server.csproj|solutionrelative:project01.server\\services\\services.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FE1AAE4-699D-EFA0-4A80-BA5ED71FBFAB}|project01.Server\\project01.Server.csproj|c:\\users\\bnid\\documents\\cedt26intren\\project01\\project01\\project01.server\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FE1AAE4-699D-EFA0-4A80-BA5ED71FBFAB}|project01.Server\\project01.Server.csproj|solutionrelative:project01.server\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FE1AAE4-699D-EFA0-4A80-BA5ED71FBFAB}|project01.Server\\project01.Server.csproj|c:\\users\\bnid\\documents\\cedt26intren\\project01\\project01\\project01.server\\models\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FE1AAE4-699D-EFA0-4A80-BA5ED71FBFAB}|project01.Server\\project01.Server.csproj|solutionrelative:project01.server\\models\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FE1AAE4-699D-EFA0-4A80-BA5ED71FBFAB}|project01.Server\\project01.Server.csproj|c:\\users\\bnid\\documents\\cedt26intren\\project01\\project01\\project01.server\\dtos\\dtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FE1AAE4-699D-EFA0-4A80-BA5ED71FBFAB}|project01.Server\\project01.Server.csproj|solutionrelative:project01.server\\dtos\\dtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FE1AAE4-699D-EFA0-4A80-BA5ED71FBFAB}|project01.Server\\project01.Server.csproj|c:\\users\\bnid\\documents\\cedt26intren\\project01\\project01\\project01.server\\data\\librarydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FE1AAE4-699D-EFA0-4A80-BA5ED71FBFAB}|project01.Server\\project01.Server.csproj|solutionrelative:project01.server\\data\\librarydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "project01.AppHost",
+              "DocumentMoniker": "C:\\Users\\BNiD\\Documents\\CEDT26intren\\project01\\project01\\project01.AppHost\\project01.AppHost.csproj",
+              "RelativeDocumentMoniker": "project01.AppHost\\project01.AppHost.csproj",
+              "ToolTip": "C:\\Users\\BNiD\\Documents\\CEDT26intren\\project01\\project01\\project01.AppHost\\project01.AppHost.csproj",
+              "RelativeToolTip": "project01.AppHost\\project01.AppHost.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-26T06:16:03.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\BNiD\\Documents\\CEDT26intren\\project01\\project01\\project01.Server\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "project01.Server\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\BNiD\\Documents\\CEDT26intren\\project01\\project01\\project01.Server\\Properties\\launchSettings.json",
+              "RelativeToolTip": "project01.Server\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-26T06:14:36.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "project01.Server",
+              "DocumentMoniker": "C:\\Users\\BNiD\\Documents\\CEDT26intren\\project01\\project01\\project01.Server\\project01.Server.csproj",
+              "RelativeDocumentMoniker": "project01.Server\\project01.Server.csproj",
+              "ToolTip": "C:\\Users\\BNiD\\Documents\\CEDT26intren\\project01\\project01\\project01.Server\\project01.Server.csproj",
+              "RelativeToolTip": "project01.Server\\project01.Server.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-26T06:14:32.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "project01.Server.http",
+              "DocumentMoniker": "C:\\Users\\BNiD\\Documents\\CEDT26intren\\project01\\project01\\project01.Server\\project01.Server.http",
+              "RelativeDocumentMoniker": "project01.Server\\project01.Server.http",
+              "ToolTip": "C:\\Users\\BNiD\\Documents\\CEDT26intren\\project01\\project01\\project01.Server\\project01.Server.http",
+              "RelativeToolTip": "project01.Server\\project01.Server.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-05-26T06:14:24.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\BNiD\\Documents\\CEDT26intren\\project01\\project01\\project01.AppHost\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "project01.AppHost\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\BNiD\\Documents\\CEDT26intren\\project01\\project01\\project01.AppHost\\Properties\\launchSettings.json",
+              "RelativeToolTip": "project01.AppHost\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAswB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-26T05:43:29.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppHost.cs",
+              "DocumentMoniker": "C:\\Users\\BNiD\\Documents\\CEDT26intren\\project01\\project01\\project01.AppHost\\AppHost.cs",
+              "RelativeDocumentMoniker": "project01.AppHost\\AppHost.cs",
+              "ToolTip": "C:\\Users\\BNiD\\Documents\\CEDT26intren\\project01\\project01\\project01.AppHost\\AppHost.cs",
+              "RelativeToolTip": "project01.AppHost\\AppHost.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T05:08:46.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\BNiD\\Documents\\CEDT26intren\\project01\\project01\\project01.Server\\Program.cs",
+              "RelativeDocumentMoniker": "project01.Server\\Program.cs",
+              "ToolTip": "C:\\Users\\BNiD\\Documents\\CEDT26intren\\project01\\project01\\project01.Server\\Program.cs",
+              "RelativeToolTip": "project01.Server\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T03:34:50.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\BNiD\\Documents\\CEDT26intren\\project01\\project01\\project01.Server\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "project01.Server\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\BNiD\\Documents\\CEDT26intren\\project01\\project01\\project01.Server\\appsettings.Development.json",
+              "RelativeToolTip": "project01.Server\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-26T06:14:11.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\BNiD\\Documents\\CEDT26intren\\project01\\project01\\project01.Server\\appsettings.json",
+              "RelativeDocumentMoniker": "project01.Server\\appsettings.json",
+              "ToolTip": "C:\\Users\\BNiD\\Documents\\CEDT26intren\\project01\\project01\\project01.Server\\appsettings.json",
+              "RelativeToolTip": "project01.Server\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-26T06:14:09.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Services.cs",
+              "DocumentMoniker": "C:\\Users\\BNiD\\Documents\\CEDT26intren\\project01\\project01\\project01.Server\\Services\\Services.cs",
+              "RelativeDocumentMoniker": "project01.Server\\Services\\Services.cs",
+              "ToolTip": "C:\\Users\\BNiD\\Documents\\CEDT26intren\\project01\\project01\\project01.Server\\Services\\Services.cs",
+              "RelativeToolTip": "project01.Server\\Services\\Services.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T06:12:34.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "C:\\Users\\BNiD\\Documents\\CEDT26intren\\project01\\project01\\project01.Server\\Services\\BookService.cs",
+              "RelativeDocumentMoniker": "project01.Server\\Services\\BookService.cs",
+              "ToolTip": "C:\\Users\\BNiD\\Documents\\CEDT26intren\\project01\\project01\\project01.Server\\Services\\BookService.cs",
+              "RelativeToolTip": "project01.Server\\Services\\BookService.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAIwBcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T06:12:34.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Models.cs",
+              "DocumentMoniker": "C:\\Users\\BNiD\\Documents\\CEDT26intren\\project01\\project01\\project01.Server\\Models\\Models.cs",
+              "RelativeDocumentMoniker": "project01.Server\\Models\\Models.cs",
+              "ToolTip": "C:\\Users\\BNiD\\Documents\\CEDT26intren\\project01\\project01\\project01.Server\\Models\\Models.cs",
+              "RelativeToolTip": "project01.Server\\Models\\Models.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAwwAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T06:12:22.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DTOs.cs",
+              "DocumentMoniker": "C:\\Users\\BNiD\\Documents\\CEDT26intren\\project01\\project01\\project01.Server\\DTOs\\DTOs.cs",
+              "RelativeDocumentMoniker": "project01.Server\\DTOs\\DTOs.cs",
+              "ToolTip": "C:\\Users\\BNiD\\Documents\\CEDT26intren\\project01\\project01\\project01.Server\\DTOs\\DTOs.cs",
+              "RelativeToolTip": "project01.Server\\DTOs\\DTOs.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAowAcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T06:12:05.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Extensions.cs",
+              "DocumentMoniker": "C:\\Users\\BNiD\\Documents\\CEDT26intren\\project01\\project01\\project01.Server\\Extensions.cs",
+              "RelativeDocumentMoniker": "project01.Server\\Extensions.cs",
+              "ToolTip": "C:\\Users\\BNiD\\Documents\\CEDT26intren\\project01\\project01\\project01.Server\\Extensions.cs",
+              "RelativeToolTip": "project01.Server\\Extensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T05:57:00.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LibraryDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\BNiD\\Documents\\CEDT26intren\\project01\\project01\\project01.Server\\Data\\LibraryDbContext.cs",
+              "RelativeDocumentMoniker": "project01.Server\\Data\\LibraryDbContext.cs",
+              "ToolTip": "C:\\Users\\BNiD\\Documents\\CEDT26intren\\project01\\project01\\project01.Server\\Data\\LibraryDbContext.cs",
+              "RelativeToolTip": "project01.Server\\Data\\LibraryDbContext.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowDUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T05:54:28.738Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
