@@ -1,0 +1,52 @@
+project01.AppHost
+# =========================
+# Backend (.NET C#)
+# =========================
+# Build results
+[Bb]in/
+[Oo]bj/
+
+# User-specific project settings (เช่น project01.Server.csproj.user)
+*.user
+*.userosscache
+*.sln.docstates
+
+# Local Database (เช่น library.db ที่อยู่ในโฟลเดอร์ Server)
+*.db
+*.db-shm
+*.db-wal
+*.sqlite
+*.sqlite3
+
+# =========================
+# Frontend (NodeJS / Angular / Vite)
+# =========================
+# Dependencies
+node_modules/
+
+# Build outputs
+dist/
+out/
+
+# Angular cache
+.angular/
+
+# Logs
+npm-debug.log
+yarn-error.log
+yarn.log
+
+# =========================
+# IDEs and OS files
+# =========================
+# Visual Studio / Visual Studio Code
+.vs/
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# OS metadata
+.DS_Store
+Thumbs.db
